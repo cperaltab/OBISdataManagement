@@ -1,0 +1,5 @@
+name: OBIS
+channels:
+  - conda-forge
+dependencies:
+    - python
