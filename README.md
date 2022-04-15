@@ -2,5 +2,5 @@
 
 Tools and codes for performing QC for OBIS datasets
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cperaltab/OBISdataManagement/tree/main/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cperaltab/OBISdataManagement/HEAD)
 
